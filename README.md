@@ -1,3 +1,5 @@
 # -WP-comptition-2018
 
-Data from wbsite  https://www.kaggle.com/jeanmidev/smart-meters-in-london
+This code delivers a predictive algorithm that forecasts demand for small groups of electricity consumers and individuals.
+
+Data from https://www.kaggle.com/jeanmidev/smart-meters-in-london
